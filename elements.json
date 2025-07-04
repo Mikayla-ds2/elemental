@@ -72,7 +72,7 @@
     {
         "symbol": "Be", 
         "name": "Beryllium",
-        "atomicNumber": "4",
+        "atomicNumber": 4,
         "atomicMass": 9.012183,
         "atomicRadius": 153,
         "boilingPoint": 2744,
@@ -111,7 +111,7 @@
         },
         "electronegativity": 2.04,
         "group": 13,
-        "groupBlock": "metalliod",
+        "groupBlock": "metalloid",
         "meltingPoint": 2348,
         "period": 2,
         "standardState": "solid",
@@ -210,7 +210,7 @@
         },
         "electronegativity": 3.98,
         "group": 17,
-        "groupBlock": "nonmetal",
+        "groupBlock": "halogen",
         "meltingPoint": 53.53,
         "period": 2,
         "slug": "fluorine",
@@ -242,5 +242,276 @@
         "standardState": "gas",
         "symbol": "Ne",
         "yearDiscovered": 1898
+    },
+    {
+        "name": "Sodium",
+        "atomicMass": 22.9897693,
+        "atomicNumber": 11,
+        "atomicRadius": 227,
+        "boilingPoint": 1156,
+        "density": 0.97,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display": "[Ne]3s¹",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 0.93,
+        "group": 1,
+        "groupBlock": "alkali metal",
+        "meltingPoint": 370.95,
+        "period": 3, 
+        "slug": "sodium",
+        "standardState": "solid",
+        "symbol": "Na",
+        "yearDiscovered": 1807
+    },
+    {
+        "name": "Magnesium",
+        "atomicMass": 24.305,
+        "atomicNumber": 12,
+        "atomicRadius": 173,
+        "boilingPoint": 1363,
+        "density": 1.74,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display": "[Ne]3s²",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.31,
+        "group": 2, 
+        "groupBlock":"alkaline earth metal",
+        "meltingPoint": 923,
+        "period": 3,
+        "slug": "magnesium",
+        "standardState": "solid",
+        "symbol": "Mg",
+        "yearDiscovered": 1808
+    },
+    {
+        "name": "Aluminum",
+        "atomicMass": 26.981538,
+        "atomicNumber": 13,
+        "atomicRadius": 184,
+        "boilingPoint": 2792,
+        "density": 2.70,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display": "[Ne]3s² 3p¹",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "p", "electrons": 1}
+            ]
+        },
+        "electronegativity": 1.61,
+        "group": 13, 
+        "groupBlock": "post-transition metal",
+        "meltingPoint": 933.437,
+        "period": 3, 
+        "slug": "aluminum",
+        "standardState": "solid",
+        "symbol": "Al",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Silicon",
+        "atomicMass": 28.085,
+        "atomicNumber": 14, 
+        "atomicRadius": 210,
+        "boilingPoint": 3538,
+        "density": 2.3296,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display": "[Ne]3s² 3p²",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 }, 
+                { "level": 3, "subshell": "p", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.9,
+        "group": 14,
+        "groupBlock": "metalloid",
+        "meltingPoint": 1687,
+        "period": 3,
+        "slug": "silicon",
+        "standardState": "solid",
+        "symbol": "Si",
+        "yearDiscovered": 1854
+    },
+    {
+        "name": "Phosphorus",
+        "atomicMass": 30.97376200,
+        "atomicNumber": 15,
+        "atomicRadius": 180,
+        "boilingPoint": 553.65,
+        "density": 1.82,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display":"[Ne]3s² 3p³",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "p", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 2.19,
+        "group": 15,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 317.3,
+        "period": 3,
+        "slug": "phosphorus",
+        "standardState": "solid",
+        "symbol": "P",
+        "yearDiscovered": 1669
+    },
+    {
+        "name": "Sulfur",
+        "atomicMass": 32.07,
+        "atomicNumber": 16,
+        "atomicRadius": 180,
+        "boilingPoint": 717.75,
+        "density": 2.067,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display":"[Ne]3s² 3p⁴",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "p", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 2.58,
+        "group": 16,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 388.36,
+        "period": 3,
+        "slug": "sulfur",
+        "standardState": "solid",
+        "symbol": "S",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Chlorine", 
+        "atomicMass": 35.45,
+        "atomicNumber": 17,
+        "atomicRadius": 175,
+        "boilingPoint": 239.11,
+        "density": 0.003214,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display":"[Ne]3s² 3p⁵",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "p", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 3.16,
+        "group": 17,
+        "groupBlock": "halogen",
+        "meltingPoint": 171.65,
+        "period": 3,
+        "slug": "chlorine",
+        "standardState": "gas",
+        "symbol": "Cl",
+        "yearDiscovered": 1774
+    },
+    {
+        "name": "Argon",
+        "atomicMass": 39.9,
+        "atomicNumber": 18,
+        "atomicRadius": 188,
+        "boilingPoint": 87.3,
+        "density": 0.0017837,
+        "electronConfiguration": {
+            "core": "Ne",
+            "display":"[Ne]3s² 3p⁶",
+            "orbitals": [
+                { "level": 3, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "p", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 0,
+        "group": 18,
+        "groupBlock":"noble gas",
+        "meltingPoint": 83.8,
+        "period": 3,
+        "slug": "argon",
+        "standardState": "gas",
+        "symbol": "Ar",
+        "yearDiscovered": 1894
+    },
+    {
+        "name": "Potassium", 
+        "atomicMass": 39.0983,
+        "atomicNumber": 19,
+        "atomicRadius": 275,
+        "boilingPoint": 1032,
+        "density": 0.89,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s¹",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 0.82,
+        "group": 1,
+        "groupBlock":"alkali metal",
+        "meltingPoint": 336.53,
+        "period": 4,
+        "slug": "potassium",
+        "standardState": "solid",
+        "symbol": "K",
+        "yearDiscovered": 1807 
+    },
+    {
+        "name": "Calcium",
+        "atomicMass": 40.08,
+        "atomicNumber": 20,
+        "atomicRadius": 231,
+        "boilingPoint": 1757,
+        "density": 1.54,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s²",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1,
+        "group": 2,
+        "groupBlock":"alkaline earth metal",
+        "meltingPoint": 1115,
+        "period": 4,
+        "slug": "calcium",
+        "standardState": "solid",
+        "symbol": "Ca",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Scandium",
+        "atomicMass": 44.95591,
+        "atomicNumber": 21,
+        "atomicRadius": 211,
+        "boilingPoint": 3109,
+        "density": 2.99,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s² 3d¹",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.36,
+        "group": 3,
+        "groupBlock": "transition metal",
+        "meltingPoint": 1814,
+        "period": 4,
+        "slug": "scandium",
+        "standardState": "solid",
+        "symbol": "Sc",
+        "yearDiscovered": 1879
     }
 ]
