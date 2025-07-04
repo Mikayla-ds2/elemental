@@ -168,5 +168,79 @@
         "standardState": "gas",
         "yearDiscovered": 1772
     },
-    
+    {
+        "name": "Oxygen",
+        "atomicMass": 15.999,
+        "atomicNumber": 8,
+        "atomicRadius": 152,
+        "boilingPoint": 90.2,
+        "density": 0.001429,
+        "electronConfiguration": {
+            "core": "He",
+            "display": "[He]2s² 2p⁴",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 3.44,
+        "group": 16,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 54.36,
+        "slug": "oxygen",
+        "period": 2,
+        "standardState": "gas",
+        "symbol": "O",
+        "yearDiscovered": 1774
+    },
+    {
+        "name": "Fluorine",
+        "atomicMass": 18.99840316,
+        "atomicNumber": 9,
+        "atomicRadius": 135,
+        "boilingPoint": 85.03,
+        "density": 0.001696,
+        "electronConfiguration": {
+            "core": "He",
+            "display": "[He]2s² 2p⁵",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 3.98,
+        "group": 17,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 53.53,
+        "period": 2,
+        "slug": "fluorine",
+        "standardState": "gas",
+        "symbol": "F",
+        "yearDiscovered": 1670
+    },
+    {
+        "name": "Neon",
+        "atomicMass": 20.180,
+        "atomicNumber": 10,
+        "atomicRadius": 154,
+        "boilingPoint": 27.07,
+        "density": 0.0008999,
+        "electronConfiguration": {
+            "core": "He",
+            "display": "[He]2s² 2p⁶",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 0,
+        "group": 18,
+        "groupBlock": "noble gas",
+        "meltingPoint": 24.56,
+        "period": 2,
+        "slug": "neon",
+        "standardState": "gas",
+        "symbol": "Ne",
+        "yearDiscovered": 1898
+    }
 ]
