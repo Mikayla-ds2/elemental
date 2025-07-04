@@ -15,5 +15,22 @@
         "boilingPoint": 20.28,
         "density": 0.00008988,
         "yearDiscovered": 1766
+    },
+    {
+        "symbol": "He",
+        "name": "Helium",
+        "atomicNumber": 2,
+        "atomicMass": 4.00260,
+        "electronegativity": 0,
+        "standardState": "gas",
+        "electronConfiguration": "1s^2",
+        "group": 18,
+        "period": 1,
+        "groupBlock": "noble gas",
+        "atomicRadius": 140,
+        "meltingPoint": 0.95,
+        "boilingPoint": 4.22,
+        "density": 0.0001785,
+        "yearDiscovered": 1868
     }
 ]
