@@ -10,11 +10,17 @@
         "period": 1,
         "groupBlock": "nonmetal",
         "atomicRadius": 120,
-        "electronConfiguration": "1s^1",
+        "electronConfiguration": {
+            "orbitals": [
+                {"level": 1, "subshell": "s", "electrons": 1}
+            ],
+            "display": "1s¹"
+        },
         "meltingPoint": 13.81,
         "boilingPoint": 20.28,
         "density": 0.00008988,
-        "yearDiscovered": 1766
+        "yearDiscovered": 1766,
+        "slug": "hydrogen"
     },
     {
         "symbol": "He",
@@ -23,7 +29,12 @@
         "atomicMass": 4.00260,
         "electronegativity": 0,
         "standardState": "gas",
-        "electronConfiguration": "1s^2",
+        "electronConfiguration": {
+            "orbitals": [
+                {"level": 1, "subshell": "s", "electrons": 2}
+            ],
+            "display": "1s²"
+        },
         "group": 18,
         "period": 1,
         "groupBlock": "noble gas",
@@ -31,7 +42,8 @@
         "meltingPoint": 0.95,
         "boilingPoint": 4.22,
         "density": 0.0001785,
-        "yearDiscovered": 1868
+        "yearDiscovered": 1868,
+        "slug": "helium"
     },
     {
         "symbol": "Li",
@@ -40,7 +52,13 @@
         "atomicMass": 7.0,
         "electronegativity": 0.98,
         "standardState": "solid",
-        "electronConfiguration": "[He]2s^1",
+        "electronConfiguration": {
+            "core": "He",
+            "orbitals": [
+                {"level": 2, "subshell": "s", "electrons": 1}
+            ],
+            "display": "[He]2s¹"
+        },
         "group": 1,
         "period": 2,
         "groupBlock": "alkali metal", 
@@ -48,6 +66,107 @@
         "meltingPoint": 453.65,
         "boilingPoint": 1615,
         "density": 0.534,
-        "yearDiscovered": 1817
-    }
+        "yearDiscovered": 1817,
+        "slug": "lithium"
+    }, 
+    {
+        "symbol": "Be", 
+        "name": "Beryllium",
+        "atomicNumber": "4",
+        "atomicMass": 9.012183,
+        "atomicRadius": 153,
+        "boilingPoint": 2744,
+        "density": 1.85,
+        "electronConfiguration": {
+            "core": "He",
+            "orbitals": [
+                {"level": 2, "subshell": "s", "electrons": 2}
+            ],
+            "display": "[He]2s²"
+        },
+        "electronegativity": 1.57,
+        "group": 2,
+        "groupBlock": "alkaline earth metal",
+        "meltingPoint": 1560,
+        "period": 2,
+        "standardState": "solid",
+        "yearDiscovered": 1798,
+        "slug": "beryllium"
+    },
+    {
+        "symbol": "B",
+        "name": "Boron", 
+        "atomicNumber": 5,
+        "atomicMass": 10.81,
+        "atomicRadius": 192,
+        "boilingPoint": 4273,
+        "density": 2.37,
+        "electronConfiguration": {
+            "core": "He",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 1}
+            ],
+            "display": "[He]2s² 2p¹"
+        },
+        "electronegativity": 2.04,
+        "group": 13,
+        "groupBlock": "metalliod",
+        "meltingPoint": 2348,
+        "period": 2,
+        "standardState": "solid",
+        "yearDiscovered": 1808,
+        "slug": "boron"
+    },
+    {
+        "symbol": "C",
+        "name": "Carbon", 
+        "atomicNumber": 6, 
+        "atomicMass": 12.011,
+        "atomicRadius": 170, 
+        "boilingPoint": 4098,
+        "density": 2.2670, 
+        "electronConfiguration": {
+            "core": "He",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 2 }
+            ],
+            "display":"[He]2s² 2p²"
+        },
+        "electronegativity": 2.55,
+        "group": 14,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 3823,
+        "period": 2,
+        "slug": "carbon",
+        "standardState": "solid",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "symbol": "N",
+        "name": "Nitrogen",
+        "atomicNumber": 7,
+        "atomicMass": 14.007,
+        "atomicRadius": 155,
+        "boilingPoint": 77.36,
+        "density": 0.0012506,
+        "electronConfiguration": {
+            "core": "He",
+            "display": "[He]2s² 2p³",
+            "orbitals": [
+                { "level": 2, "subshell": "s", "electrons": 2 },
+                { "level": 2, "subshell": "p", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 3.04,
+        "group": 15, 
+        "groupBlock": "nonmetal",
+        "meltingPoint": 63.15,
+        "period": 2, 
+        "slug": "nitrogen",
+        "standardState": "gas",
+        "yearDiscovered": 1772
+    },
+    
 ]
