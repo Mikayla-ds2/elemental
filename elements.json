@@ -32,5 +32,22 @@
         "boilingPoint": 4.22,
         "density": 0.0001785,
         "yearDiscovered": 1868
+    },
+    {
+        "symbol": "Li",
+        "name": "Lithium",
+        "atomicNumber": 3,
+        "atomicMass": 7.0,
+        "electronegativity": 0.98,
+        "standardState": "solid",
+        "electronConfiguration": "[He]2s^1",
+        "group": 1,
+        "period": 2,
+        "groupBlock": "alkali metal", 
+        "atomicRadius": 182, 
+        "meltingPoint": 453.65,
+        "boilingPoint": 1615,
+        "density": 0.534,
+        "yearDiscovered": 1817
     }
 ]
