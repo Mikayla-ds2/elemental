@@ -1,0 +1,19 @@
+[
+    {
+        "symbol": "H",
+        "name": "Hydrogen",
+        "atomicNumber": 1,
+        "atomicMass": 1.0078, 
+        "electronegativity": 2.2,
+        "standardState": "gas",
+        "group": 1,
+        "period": 1,
+        "groupBlock": "nonmetal",
+        "atomicRadius": 120,
+        "electronConfiguration": "1s^1",
+        "meltingPoint": 13.81,
+        "boilingPoint": 20.28,
+        "density": 0.00008988,
+        "yearDiscovered": 1766
+    }
+]
