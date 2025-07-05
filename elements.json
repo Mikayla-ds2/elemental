@@ -105,7 +105,7 @@
             "core": "He",
             "orbitals": [
                 { "level": 2, "subshell": "s", "electrons": 2 },
-                { "level": 2, "subshell": "p", "electrons": 1}
+                { "level": 2, "subshell": "p", "electrons": 1 }
             ],
             "display": "[He]2s² 2p¹"
         },
@@ -775,7 +775,124 @@
         "electronConfiguration": {
             "core": "Ar", 
             "display": "[Ar]4s² 3d¹⁰ 4p²",
-            "orbitals":
-        }
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 },
+                { "level": 4, "subshell": "p", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 2.01,
+        "group": 14,
+        "groupBlock": "metalloid",
+        "meltingPoint": 1211.4,
+        "period": 4,
+        "slug": "germanium",
+        "standardState": "solid",
+        "symbol": "Ge",
+        "yearDiscovered": 1886
+    },
+    {
+        "name": "Arsenic",
+        "atomicMass": 74.92159,
+        "atomicNumber": 33,
+        "atomicRadius": 185,
+        "boilingPoint": 887,
+        "density": 5.776,
+        "electronConfiguration": {
+            "core": "Ar", 
+            "display":"[Ar]4s² 3d¹⁰ 4p³",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 },
+                { "level": 4, "subshell": "p", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 2.18,
+        "group": 15,
+        "groupBlock": "metalloid",
+        "meltingPoint": 1090,
+        "period": 4,
+        "slug": "arsenic",
+        "standardState": "solid",
+        "symbol": "As",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Selenium",
+        "atomicMass": 78.97,
+        "atomicNumber": 34,
+        "atomicRadius": 190,
+        "boilingPoint": 958,
+        "density": 4.809,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d¹⁰ 4p⁴",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 4 },
+                { "level": 4, "subshell": "p", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 2.55,
+        "group": 16,
+        "groupBlock": "nonmetal",
+        "meltingPoint": 493.65,
+        "period": 4,
+        "slug": "selenium",
+        "standardState": "solid",
+        "symbol": "Se",
+        "yearDiscovered": 1817
+    },
+    {
+        "name": "Bromine",
+        "atomicMass": 79.90,
+        "atomicNumber": 35,
+        "atomicRadius": 183,
+        "boilingPoint": 331.95,
+        "density": 3.11,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d¹⁰ 4p⁵",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 },
+                { "level": 4, "subshell": "p", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 2.96,
+        "group": 17,
+        "groupBlock":"halogen",
+        "meltingPoint": 265.95,
+        "period": 4,
+        "slug": "bromine",
+        "standardState": "solid",
+        "symbol": "Cl",
+        "yearDiscovered": 1826
+    },
+    {
+        "name": "Krypton",
+        "atomicMass": 83.80,
+        "atomicNumber": 36,
+        "atomicRadius": 202,
+        "boilingPoint": 119.93,
+        "density": 0.003733,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d¹⁰ 4p⁶",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 },
+                { "level": 4, "subshell": "p", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 3,
+        "group": 18,
+        "groupBlock":"noble gas",
+        "meltingPoint": 115.79,
+        "period": 4,
+        "slug": "krypton",
+        "standardState": "solid",
+        "symbol": "Kr",
+        "yearDiscovered": 1898
     }
 ]
