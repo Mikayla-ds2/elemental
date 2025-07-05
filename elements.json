@@ -80,7 +80,7 @@
         "electronConfiguration": {
             "core": "He",
             "orbitals": [
-                {"level": 2, "subshell": "s", "electrons": 2}
+                { "level": 2, "subshell": "s", "electrons": 2 }
             ],
             "display": "[He]2s²"
         },
@@ -513,5 +513,269 @@
         "standardState": "solid",
         "symbol": "Sc",
         "yearDiscovered": 1879
+    },
+    {
+        "name": "Titanium",
+        "atomicMass": 47.867,
+        "atomicNumber": 22,
+        "atomicRadius": 187,
+        "boilingPoint": 3560,
+        "density": 4.5,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s² 3d²",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.54,
+        "group": 4,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1941,
+        "period": 4,
+        "slug": "titanium",
+        "standardState": "solid",
+        "symbol": "Ti",
+        "yearDiscovered": 1791
+    },
+    {
+        "name": "Vanadium",
+        "atomicMass": 50.9415,
+        "atomicNumber": 23,
+        "atomicRadius": 179,
+        "boilingPoint": 3680,
+        "density": 6,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d³",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 1.63,
+        "group": 5,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2183,
+        "period": 4,
+        "slug": "vanadium",
+        "standardState": "solid",
+        "symbol": "V",
+        "yearDiscovered": 1801
+    },
+    {
+        "name": "Chromium",
+        "atomicMass": 51.996,
+        "atomicNumber": 24,
+        "atomicRadius": 189,
+        "boilingPoint": 2944,
+        "density": 7.15,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]3d⁵ 4s¹",
+            "orbitals": [
+                { "level": 3, "subshell": "d", "electrons": 5 },
+                { "level": 4, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.66,
+        "group": 6,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2180,
+        "period": 4,
+        "slug": "chromium",
+        "standardState": "solid",
+        "symbol": "Cr",
+        "yearDiscovered": 1797
+    },
+    {
+        "name": "Manganese",
+        "atomicMass": 54.93804,
+        "atomicNumber": 25,
+        "atomicRadius": 197,
+        "boilingPoint": 2334, 
+        "density": 7.3,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d⁵",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 1.55,
+        "group": 7,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1519,
+        "period": 4,
+        "slug": "manganese",
+        "standardState": "solid",
+        "symbol": "Mn",
+        "yearDiscovered": 1774
+    },
+    {
+        "name": "Iron",
+        "atomicMass": 55.84,
+        "atomicNumber": 26,
+        "atomicRadius": 194,
+        "boilingPoint": 3134,
+        "density": 7.874,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s² 3d⁶",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 1.83,
+        "group": 8,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1811,
+        "period": 4, 
+        "slug": "iron",
+        "standardState": "solid",
+        "symbol": "Fe",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Cobalt",
+        "atomicMass": 58.93319,
+        "atomicNumber": 27,
+        "atomicRadius": 192,
+        "boilingPoint": 3200,
+        "density": 8.86,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s² 3d⁷",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 7 }
+            ]
+        },
+        "electronegativity": 1.88,
+        "group": 9, 
+        "groupBlock":"transition metal",
+        "meltingPoint": 1768,
+        "period": 4,
+        "slug": "cobalt",
+        "standardState": "solid",
+        "symbol": "Co",
+        "yearDiscovered": 1735
+    },
+    {
+        "name": "Nickel",
+        "atomicMass": 58.693,
+        "atomicNumber": 28,
+        "atomicRadius": 163,
+        "boilingPoint": 3186,
+        "density": 8.912,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d⁸",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 8 }
+            ]
+        },
+        "electronegativity": 1.91,
+        "group": 10,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1728,
+        "period": 4,
+        "slug": "nickel",
+        "standardState": "solid",
+        "symbol": "Ni",
+        "yearDiscovered": 1751
+    },
+    {
+        "name": "Copper",
+        "atomicMass": 63.55,
+        "atomicNumber": 29,
+        "atomicRadius": 140,
+        "boilingPoint": 2835,
+        "density": 8.933,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s¹ 3d¹⁰",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 1 },
+                { "level": 3, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 1.9,
+        "group": 11,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1357.77,
+        "period": 4,
+        "slug": "copper",
+        "standardState": "solid",
+        "symbol": "Cu",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Zinc",
+        "atomicMass": 65.4,
+        "atomicNumber": 30,
+        "atomicRadius": 139,
+        "boilingPoint": 1180,
+        "density": 7.134,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display":"[Ar]4s² 3d¹⁰",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 1.65,
+        "group": 12,
+        "groupBlock":"transition metal",
+        "meltingPoint": 692.68,
+        "period": 4,
+        "slug": "zinc",
+        "standardState": "solid",
+        "symbol": "Zn",
+        "yearDiscovered": 1746
+    },
+    {
+        "name": "Gallium",
+        "atomicMass": 69.723,
+        "atomicNumber": 31,
+        "atomicRadius": 187,
+        "boilingPoint": 2477,
+        "density": 5.91,
+        "electronConfiguration": {
+            "core": "Ar",
+            "display": "[Ar]4s² 3d¹⁰ 4p¹",
+            "orbitals": [
+                { "level": 4, "subshell": "s", "electrons": 2 },
+                { "level": 3, "subshell": "d", "electrons": 10 },
+                { "level": 4, "subshell": "p", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.81,
+        "group": 13,
+        "groupBlock":"post-transition metal",
+        "meltingPoint": 302.91,
+        "period": 4,
+        "slug": "gallium",
+        "standardState": "solid",
+        "symbol": "Ga",
+        "yearDiscovered": 1875
+    },
+    {
+        "name": "Germanium", 
+        "atomicMass": 72.63,
+        "atomicNumber": 32,
+        "atomicRadius": 211,
+        "boilingPoint": 3106,
+        "density": 5.323,
+        "electronConfiguration": {
+            "core": "Ar", 
+            "display": "[Ar]4s² 3d¹⁰ 4p²",
+            "orbitals":
+        }
     }
 ]
