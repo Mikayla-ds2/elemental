@@ -894,5 +894,127 @@
         "standardState": "solid",
         "symbol": "Kr",
         "yearDiscovered": 1898
+    },
+    {
+        "name": "Rubidium",
+        "atomicMass": 85.468,
+        "atomicNumber": 37,
+        "atomicRadius": 303,
+        "boilingPoint": 961,
+        "density": 1.53,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 0.82,
+        "group": 1,
+        "groupBlock":"alkali metal",
+        "meltingPoint": 312.46,
+        "period": 5,
+        "slug": "rubidium",
+        "standardState": "solid",
+        "symbol": "Rb",
+        "yearDiscovered": 1861
+    },
+    {
+        "name": "Strontium",
+        "atomicMass": 87.62,
+        "atomicNumber": 38,
+        "atomicRadius": 249,
+        "boilingPoint": 1655,
+        "density": 2.64,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s²",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 0.95,
+        "group": 2,
+        "groupBlock":"alkaline earth metal",
+        "meltingPoint": 1050,
+        "period": 5,
+        "slug": "strontium",
+        "standardState": "solid",
+        "symbol": "Sr",
+        "yearDiscovered": 1790
+    },
+    {
+        "name": "Yttrium",
+        "atomicMass": 88.90584,
+        "atomicNumber": 39,
+        "atomicRadius": 219,
+        "boilingPoint": 3618,
+        "density": 4.47,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s³",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 1.22,
+        "group": 3,
+        "groupBlock": "transition metal",
+        "meltingPoint": 1795,
+        "period": 5,
+        "slug": "yttrium",
+        "standardState": "solid",
+        "symbol": "Y",
+        "yearDiscovered": 1794
+    },
+    {
+        "name": "Zirconium",
+        "atomicMass": 91.22,
+        "atomicNumber": 40,
+        "atomicRadius": 186,
+        "boilingPoint": 4682,
+        "density": 6.52,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d²",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.33,
+        "group": 4,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2128,
+        "period": 5,
+        "slug": "zirconium",
+        "standardState": "solid",
+        "symbol": "Zr",
+        "yearDiscovered": 1789
+    },
+    {
+        "name": "Niobium",
+        "atomicMass": 92.90637,
+        "atomicNumber": 41,
+        "atomicRadius": 207,
+        "boilingPoint": 5017,
+        "density": 8.57,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d⁴",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 1.6,
+        "group": 5, 
+        "groupBlock": "transition metal",
+        "meltingPoint": 2750,
+        "period": 5,
+        "slug": "niobium",
+        "standardState": "solid",
+        "symbol": "Nb",
+        "yearDiscovered": 1801
     }
 ]
