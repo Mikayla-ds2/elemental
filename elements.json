@@ -1016,5 +1016,55 @@
         "standardState": "solid",
         "symbol": "Nb",
         "yearDiscovered": 1801
+    },
+    {
+        "name": "Molybdenum",
+        "atomicMass": 95.95,
+        "atomicNumber": 42,
+        "atomicRadius": 209,
+        "boilingPoint": 4912,
+        "density": 10.2,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d⁵",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 2.16,
+        "group": 6,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2896,
+        "period": 5, 
+        "slug": "molybdenum",
+        "standardState": "solid",
+        "symbol": "Mo",
+        "yearDiscovered": 1778
+    },
+    {
+        "name": "Technetium",
+        "atomicMass": 96.90636,
+        "atomicNumber": 43, 
+        "atomicRadius": 209,
+        "boilingPoint": 4538,
+        "density": 11,
+        "electronConfiguration": {
+            "core": "Kr", 
+            "display": "[Kr]5s² 4d⁵",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 1.9,
+        "group": 7,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2430,
+        "period": 5,
+        "slug": "technetium",
+        "standardState": "solid",
+        "symbol": "Tc",
+        "yearDiscovered": 1937
     }
 ]
