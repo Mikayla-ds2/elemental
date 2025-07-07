@@ -12,7 +12,7 @@
         "atomicRadius": 120,
         "electronConfiguration": {
             "orbitals": [
-                {"level": 1, "subshell": "s", "electrons": 1}
+                { "level": 1, "subshell": "s", "electrons": 1 }
             ],
             "display": "1s¹"
         },
@@ -31,7 +31,7 @@
         "standardState": "gas",
         "electronConfiguration": {
             "orbitals": [
-                {"level": 1, "subshell": "s", "electrons": 2}
+                { "level": 1, "subshell": "s", "electrons": 2 }
             ],
             "display": "1s²"
         },
@@ -55,7 +55,7 @@
         "electronConfiguration": {
             "core": "He",
             "orbitals": [
-                {"level": 2, "subshell": "s", "electrons": 1}
+                { "level": 2, "subshell": "s", "electrons": 1 }
             ],
             "display": "[He]2s¹"
         },
@@ -1066,5 +1066,240 @@
         "standardState": "solid",
         "symbol": "Tc",
         "yearDiscovered": 1937
+    },
+    {
+        "name": "Ruthenium",
+        "atomicMass": 101.1,
+        "atomicNumber": 44,
+        "atomicRadius": 207,
+        "boilingPoint": 4423,
+        "density": 12.1,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d⁷",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 7 }
+            ]
+        },
+        "electronegativity": 2.2,
+        "group": 8,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2607,
+        "period": 5,
+        "slug": "ruthenium",
+        "standardState": "solid",
+        "symbol": "Ru",
+        "yearDiscovered": 1827
+    },
+    {
+        "name": "Rhodium",
+        "atomicMass": 102.9055,
+        "atomicNumber": 45,
+        "atomicRadius": 195,
+        "boilingPoint": 3968,
+        "density": 12.4,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d⁸",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 8 }
+            ]
+        },
+        "electronegativity": 2.28,
+        "group": 9,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2237,
+        "period": 5,
+        "slug": "rhodium",
+        "standardState": "solid",
+        "symbol": "Rh",
+        "yearDiscovered": 1803
+    },
+    {
+        "name": "Palladium",
+        "atomicMass": 106.42,
+        "atomicNumber": 46,
+        "atomicRadius": 202,
+        "boilingPoint": 3236,
+        "density": 12,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr] 4d¹⁰",
+            "orbitals": [
+                { "level": 4, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 2.2,
+        "group": 10,
+        "groupBlock":"transition metal", 
+        "meltingPoint": 1828.05,
+        "period": 5,
+        "slug": "palladium",
+        "standardState": "solid",
+        "symbol": "Pd",
+        "yearDiscovered": 1803
+    },
+    {
+        "name": "Silver",
+        "atomicMass": 107.868,
+        "atomicNumber": 47,
+        "atomicRadius": 172,
+        "boilingPoint": 2435,
+        "density": 10.501,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d¹⁰",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 1.93,
+        "group": 11,
+        "groupBlock":"transition metal",
+        "meltingPoint": 1234.93,
+        "period": 5, 
+        "slug": "silver",
+        "standardState": "solid",
+        "symbol": "Ag",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Cadmium",
+        "atomicMass": 112.41,
+        "atomicNumber": 48,
+        "atomicRadius": 158,
+        "boilingPoint": 1040,
+        "density": 8.69,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d¹⁰",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 1.69,
+        "group": 12,
+        "groupBlock":"transition metal",
+        "meltingPoint": 594.22,
+        "period": 5,
+        "slug": "cadmium",
+        "standardState": "solid",
+        "symbol": "Cd",
+        "yearDiscovered": 1817
+    },
+    {
+        "name": "Indium",
+        "atomicMass": 114.818,
+        "atomicNumber": 49,
+        "atomicRadius": 193,
+        "boilingPoint": 2345,
+        "density": 7.31,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s¹ 4d¹⁰ 5p¹",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.78,
+        "group": 13,
+        "groupBlock":"post-transition metal",
+        "meltingPoint": 429.75,
+        "period": 5,
+        "slug": "indium",
+        "standardState": "solid",
+        "symbol": "In",
+        "yearDiscovered": 1863
+    },
+    {
+        "name": "Tin",
+        "atomicMass": 118.71,
+        "atomicNumber": 50,
+        "atomicRadius": 217,
+        "boilingPoint": 2875,
+        "density": 7.287,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d¹⁰ 5p²",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.96,
+        "group": 14,
+        "groupBlock": "post-transition metal",
+        "meltingPoint": 505.08,
+        "period": 5,
+        "slug": "tin",
+        "standardState": "solid",
+        "symbol": "Sn",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Antimony",
+        "atomicMass": 121.760,
+        "atomicNumber": 51,
+        "atomicRadius": 206,
+        "boilingPoint": 1860,
+        "density": 6.685,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d¹⁰ 5p³",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 2.05,
+        "group": 15,
+        "groupBlock": "metalloid",
+        "meltingPoint": 903.78,
+        "period": 5, 
+        "slug": "antimony",
+        "standardState": "solid",
+        "symbol": "Sb",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Tellurium",
+        "atomicMass": 127.6,
+        "atomicNumber": 52,
+        "atomicRadius": 206,
+        "boilingPoint": 1261,
+        "density": 6.232,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d¹⁰ 5p⁴",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 2.1,
+        "group": 16,
+        "groupBlock": "metalloid",
+        "meltingPoint": 722.66,
+        "period": 5,
+        "slug": "tellurium",
+        "standardState": "solid",
+        "symbol": "Te",
+        "yearDiscovered": 1782
+    },
+    {
+        "name": "Iodine",
+        "atomicMass": 126.9045,
+        "atomicNumber": 53,
+        "atomicRadius": 198,
+        "boilingPoint": 457.55
     }
 ]
