@@ -1300,6 +1300,99 @@
         "atomicMass": 126.9045,
         "atomicNumber": 53,
         "atomicRadius": 198,
-        "boilingPoint": 457.55
+        "boilingPoint": 457.55,
+        "density": 4.93,
+        "electronConfiguration": {
+            "core": "Kr", 
+            "display": "[Kr]5s² 4d¹⁰ 5p⁵",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 5 } 
+            ]
+        },
+        "electronegativity": 2.66,
+        "group": 17,
+        "groupBlock": "halogen",
+        "meltingPoint": 386.85,
+        "period": 5,
+        "slug": "iodine",
+        "standardState": "solid",
+        "symbol": "I",
+        "yearDiscovered": 1811
+    },
+    {
+        "name": "Xenon",
+        "atomicMass": 131.29,
+        "atomicNumber": 54,
+        "atomicRadius": 216,
+        "boilingPoint": 165.03,
+        "density": 0.005887,
+        "electronConfiguration": {
+            "core": "Kr",
+            "display": "[Kr]5s² 4d¹⁰ 5p⁶",
+            "orbitals": [
+                { "level": 5, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "d", "electrons": 10 },
+                { "level": 5, "subshell": "p", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 2.6,
+        "group": 18,
+        "groupBlock":"noble gas",
+        "meltingPoint": 161.36,
+        "period": 5,
+        "slug": "xenon",
+        "standardState": "gas",
+        "symbol": "Xe",
+        "yearDiscovered": 1898
+    },
+    {
+        "name": "Cesium",
+        "atomicMass": 132.9054520,
+        "atomicNumber": 55,
+        "atomicRadius": 343,
+        "boilingPoint": 944,
+        "density": 1.93,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 0.79,
+        "group": 1,
+        "groupBlock":"alkali metal",
+        "meltingPoint": 301.59,
+        "period": 6,
+        "slug": "cesium",
+        "standardState": "solid",
+        "symbol": "Cs",
+        "yearDiscovered": 1860
+    },
+    {
+        "name": "Barium",
+        "atomicMass": 137.33,
+        "atomicNumber": 56,
+        "atomicRadius": 268,
+        "boilingPoint": 2170,
+        "density": 3.62,
+        "electronConfiguration": {
+            "core": "Xe", 
+            "display": "[Xe]6s²",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 0.89,
+        "group": 2,
+        "groupBlock":"alkaline earth metal",
+        "meltingPoint": 1000,
+        "period": 6,
+        "slug": "barium",
+        "standardState": "solid",
+        "symbol": "Ba",
+        "yearDiscovered": 1808
     }
 ]
