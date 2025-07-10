@@ -1394,5 +1394,156 @@
         "standardState": "solid",
         "symbol": "Ba",
         "yearDiscovered": 1808
+    },
+    {
+        "name": "Lanthanum",
+        "atomicMass": 138.9055,
+        "atomicNumber": 57,
+        "atomicRadius": 240,
+        "boilingPoint": 3737,
+        "density": 6.15,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 5d¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 5, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.1,
+        "group": 4,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1191,
+        "period": 6,
+        "slug": "lanthanum",
+        "standardState": "solid",
+        "symbol": "La",
+        "yearDiscovered": 1839
+    },
+    {
+        "name": "Cerium",
+        "atomicMass": 140.116,
+        "atomicNumber": 58,
+        "atomicRadius": 235,
+        "boilingPoint": 3697,
+        "density": 6.770,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹ 5d¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 1 },
+                { "level": 5, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.12,
+        "group": 5,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1071,
+        "period": 6, 
+        "slug": "cerium",
+        "standardState": "solid",
+        "symbol": "Ce",
+        "yearDiscovered": 1803
+    },
+    {
+        "name": "Praseodymium",
+        "atomicMass": 140.90766,
+        "atomicNumber": 59,
+        "atomicRadius": 239,
+        "boilingPoint": 3793,
+        "density": 6.77,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f³",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 1.13,
+        "group": 6,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1204,
+        "period": 6,
+        "slug": "praseodymium",
+        "standardState": "solid",
+        "symbol": "Pr",
+        "yearDiscovered": 1885
+    },
+    {
+        "name": "Neodymium",
+        "atomicMass": 144.24,
+        "atomicNumber": 60,
+        "atomicRadius": 229,
+        "boilingPoint": 3347,
+        "density": 7.01,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f⁴",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 1.14,
+        "group": 7,
+        "groupBlock": "lanthanide", 
+        "meltingPoint": 1294,
+        "period": 6,
+        "slug": "neodymium",
+        "standardState": "solid",
+        "symbol": "Nd",
+        "yearDiscovered": 1885
+    },
+    {
+        "name": "Promethium",
+        "atomicMass": 144.91276,
+        "atomicNumber": 61,
+        "atomicRadius": 236,
+        "boilingPoint": 3273,
+        "density": 7.26,
+        "electronConfiguration": {
+            "core": "Xe", 
+            "display": "[Xe]6s² 4f⁵",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 1.13,
+        "group": 8,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1315,
+        "period": 6,
+        "slug": "promethium",
+        "standardState": "solid",
+        "symbol": "Pm",
+        "yearDiscovered": 1945
+    },
+    {
+        "name": "Samarium",
+        "atomicMass": 150.4,
+        "atomicNumber": 62,
+        "atomicRadius": 229,
+        "boilingPoint": 2067,
+        "density": 7.52,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f⁶",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 1.17,
+        "group": 9,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1347,
+        "period": 6,
+        "slug": "samarium",
+        "standardState": "solid",
+        "symbol": "Sm",
+        "yearDiscovered": 1879
     }
 ]
