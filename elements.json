@@ -1570,5 +1570,147 @@
         "standardState": "solid",
         "symbol": "Eu",
         "yearDiscovered": 1901
+    },
+    {
+        "name": "Gadolinium",
+        "atomicMass": 157.25,
+        "atomicNumber": 64,
+        "atomicRadius": 237,
+        "boilingPoint": 3546,
+        "density": 7.90,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f⁷ 5d¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 7 },
+                { "level": 5, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.2,
+        "group": 11,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1586,
+        "period": 6,
+        "slug": "gadolinium",
+        "standardState": "solid",
+        "symbol": "Gd",
+        "yearDiscovered": 1880
+    },
+    {
+        "name": "Terbium",
+        "atomicMass": 158.92535,
+        "atomicNumber": 65,
+        "atomicRadius": 221,
+        "boilingPoint": 3503,
+        "density": 8.23,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f⁹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 9 }
+            ]
+        },
+        "electronegativity": 1.2,
+        "group": 12,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1629,
+        "period": 6,
+        "slug": "terbium",
+        "standardState": "solid",
+        "symbol": "Tb",
+        "yearDiscovered": 1843
+    },
+    {
+        "name": "Dysprosium",
+        "atomicMass": 162.500,
+        "atomicNumber": 66,
+        "atomicRadius": 229,
+        "boilingPoint": 2840,
+        "density": 8.55,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁰",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 1.22,
+        "group": 13,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1685,
+        "period": 6,
+        "slug": "dysprosium",
+        "standardState": "solid",
+        "symbol": "Dy",
+        "yearDiscovered": 1886
+    },
+    {
+        "name": "Holmium",
+        "atomicMass": 164.93033,
+        "atomicNumber": 67,
+        "atomicRadius": 216,
+        "boilingPoint": 2973,
+        "density": 8.80,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 11 }
+            ]
+        },
+        "electronegativity": 1.23,
+        "group": 14,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1747,
+        "period": 6,
+        "slug": "holmium",
+        "standardState": "solid",
+        "symbol": "Ho",
+        "yearDiscovered": 1878
+    },
+    {
+        "name": "Erbium",
+        "atomicMass": 167.22,
+        "atomicNumber": 68,
+        "atomicRadius": 235,
+        "boilingPoint": 3141,
+        "density": 9.07,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹²",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 12 }
+            ]
+        },
+        "electronegativity": 1.24,
+        "group": 15,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1802,
+        "period": 6,
+        "slug": "erbium",
+        "standardState": "solid",
+        "symbol": "Er",
+        "yearDiscovered": 1843
+    },
+    {
+        "name": "Thulium",
+        "atomicMass": 168.93422,
+        "atomicNumber": 69,
+        "atomicRadius": 227,
+        "boilingPoint": 2223,
+        "density": 9.32,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹³",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 13 }
+            ]
+        }
     }
 ]
