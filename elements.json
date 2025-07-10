@@ -1545,5 +1545,30 @@
         "standardState": "solid",
         "symbol": "Sm",
         "yearDiscovered": 1879
+    },
+    {
+        "name": "Europium",
+        "atomicMass": 151.964,
+        "atomicNumber": 63,
+        "atomicRadius": 233,
+        "boilingPoint": 1802,
+        "density": 5.24,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f⁷",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 7 }
+            ]
+        },
+        "electronegativity": 1.2,
+        "group": 10,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1095,
+        "period": 6,
+        "slug": "europium",
+        "standardState": "solid",
+        "symbol": "Eu",
+        "yearDiscovered": 1901
     }
 ]

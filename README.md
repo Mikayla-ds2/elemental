@@ -5,4 +5,4 @@ electronegativity uses pauling scale
 atomicRadium unit = pm; van der Waals
 meltingPoint + boilingPoint unit = K
 density unit = g/cm^3
-all data from PubChem
+most of the data is from PubChem
