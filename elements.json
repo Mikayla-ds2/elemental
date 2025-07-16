@@ -1711,6 +1711,327 @@
                 { "level": 6, "subshell": "s", "electrons": 2 },
                 { "level": 4, "subshell": "f", "electrons": 13 }
             ]
-        }
+        },
+        "electronegativity": 1.25,
+        "group": 16,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1818,
+        "period": 6,
+        "slug": "thulium",
+        "standardState": "solid",
+        "symbol": "Tm",
+        "yearDiscovered": 1879
+    },
+    {
+        "name": "Ytterbium",
+        "atomicMass": 173.05,
+        "atomicNumber": 70,
+        "atomicRadius": 242,
+        "boilingPoint": 1469,
+        "density": 6.90,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 }
+            ]
+        },
+        "electronegativity": 1.1,
+        "group": 17,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1092,
+        "period": 6,
+        "slug": "ytterbium",
+        "standardState": "solid",
+        "symbol": "Yb",
+        "yearDiscovered": 1878
+    },
+    {
+        "name": "Lutetium",
+        "atomicMass": 174.9667,
+        "atomicNumber": 71,
+        "atomicRadius": 221,
+        "boilingPoint": 3675,
+        "density": 9.84,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.27,
+        "group": 18,
+        "groupBlock": "lanthanide",
+        "meltingPoint": 1936,
+        "period": 6,
+        "slug": "lutetium",
+        "standardState": "solid",
+        "symbol": "Lu",
+        "yearDiscovered": 1907
+    },
+    {
+        "name": "Hafnium",
+        "atomicMass": 178.49,
+        "atomicNumber": 72,
+        "atomicRadius": 212,
+        "boilingPoint": 4876,
+        "density": 13.3,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d²",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 1.3,
+        "group": 4,
+        "groupBlock": "transition metal",
+        "meltingPoint": 2506,
+        "period": 6,
+        "slug": "hafnium",
+        "standardState": "solid",
+        "symbol": "Hf",
+        "yearDiscovered": 1923
+    },
+    {
+        "name": "Tantalum",
+        "atomicMass": 180.9479,
+        "atomicNumber": 73,
+        "atomicRadius": 217,
+        "boilingPoint": 5731,
+        "density": 16.4,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d³",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 1.5,
+        "group": 5,
+        "groupBlock": "transition metal",
+        "meltingPoint": 3290,
+        "period": 6,
+        "slug": "tantalum",
+        "standardState": "solid",
+        "symbol": "Ta",
+        "yearDiscovered": 1802
+    },
+    {
+        "name": "Tungsten",
+        "atomicMass": 183.84,
+        "atomicNumber": 74,
+        "atomicRadius": 210,
+        "boilingPoint": 5828,
+        "density": 19.3,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d⁴",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 2.36,
+        "group": 6,
+        "groupBlock": "transition metal",
+        "meltingPoint": 3695,
+        "period": 6,
+        "slug": "tungsten",
+        "standardState": "solid",
+        "symbol": "W",
+        "yearDiscovered": 1783
+    },
+    {
+        "name": "Rhenium",
+        "atomicMass": 186.207,
+        "atomicNumber": 75,
+        "atomicRadius": 217,
+        "boilingPoint": 5869,
+        "density": 20.8,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d⁵",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 1.9,
+        "group": 7,
+        "groupBlock":"transition metal",
+        "meltingPoint": 3459,
+        "period": 6,
+        "slug": "rhenium",
+        "standardState": "solid",
+        "symbol": "Re",
+        "yearDiscovered": 1925
+    },
+    {
+        "name": "Osmium",
+        "atomicMass": 190.2,
+        "atomicNumber": 76,
+        "atomicRadius": 216,
+        "boilingPoint": 5285,
+        "density": 22.57,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d⁶",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 2.2,
+        "group": 8,
+        "groupBlock":"transition metal",
+        "meltingPoint": 3306,
+        "period": 6,
+        "slug": "osmium",
+        "standardState": "solid",
+        "symbol": "Os",
+        "yearDiscovered": 1803
+    },
+    {
+        "name": "Iridium",
+        "atomicMass": 192.22,
+        "atomicNumber": 77,
+        "atomicRadius": 202,
+        "boilingPoint": 4701,
+        "density": 22.42,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d⁷",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 7 }
+            ]
+        },
+        "electronegativity": 2.2,
+        "group": 9,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2719,
+        "period": 6,
+        "slug": "iridium",
+        "standardState": "solid",
+        "symbol": "Ir",
+        "yearDiscovered": 1803
+    },
+    {
+        "name": "Platinum",
+        "atomicMass": 195.08,
+        "atomicNumber": 78,
+        "atomicRadius": 209,
+        "boilingPoint": 4098,
+        "density": 21.46,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s¹ 4f¹⁴ 5d⁹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 9 }
+            ]
+        },
+        "electronegativity": 2.28,
+        "group": 10,
+        "groupBlock":"transition metal",
+        "meltingPoint": 2041.55,
+        "period": 6,
+        "slug": "platinum",
+        "standardState": "solid",
+        "symbol": "Pt",
+        "yearDiscovered": 1735
+    },
+    {
+        "name": "Gold",
+        "atomicMass": 196.96657,
+        "atomicNumber": 79,
+        "atomicRadius": 166,
+        "boilingPoint": 3129,
+        "density": 19.282,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s¹ 4f¹⁴ 5d¹⁰",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 1 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 2.54,
+        "group": 11,
+        "groupBlock": "transition metal",
+        "meltingPoint": 1337.33,
+        "slug": "gold",
+        "period": 6,
+        "standardState": "solid",
+        "symbol": "Au",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Mercury",
+        "atomicMass": 200.59,
+        "atomicNumber": 80,
+        "atomicRadius": 209,
+        "boilingPoint": 629.88,
+        "density": 13.5336,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 }
+            ]
+        },
+        "electronegativity": 2,
+        "group": 12,
+        "groupBlock":"transition metal",
+        "meltingPoint": 234.32,
+        "period": 6,
+        "slug": "mercury",
+        "standardState": "liquid",
+        "symbol": "Hg",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Thallium",
+        "atomicMass": 204.383,
+        "atomicNumber": 81,
+        "atomicRadius": 196,
+        "boilingPoint": 1746,
+        "density": 11.8,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p¹",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.62,
+        "group": 13,
+        "groupBlock": "post-transition metal",
+        "meltingPoint": 577,
+        "period": 6,
+        "slug": "thallium",
+        "standardState": "solid",
+        "symbol": "Tl",
+        "yearDiscovered": 1861
     }
 ]
