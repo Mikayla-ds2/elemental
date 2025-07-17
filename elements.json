@@ -2033,5 +2033,216 @@
         "standardState": "solid",
         "symbol": "Tl",
         "yearDiscovered": 1861
+    },
+    {
+        "name": "Lead",
+        "atomicMass": 207,
+        "atomicNumber": 82,
+        "atomicRadius": 202,
+        "boilingPoint": 2022,
+        "density": 11.342,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p²",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 2.33,
+        "group": 14,
+        "groupBlock": "post-transition metal",
+        "meltingPoint": 600.61,
+        "period": 6,
+        "slug": "lead",
+        "standardState": "solid",
+        "symbol": "Pb",
+        "yearDiscovered": "Ancient"
+    },
+    {
+        "name": "Bismuth",
+        "atomicMass": 208.98040,
+        "atomicNumber": 83,
+        "atomicRadius": 207,
+        "boilingPoint": 1837,
+        "density": 9.807,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p³",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 3 }
+            ]
+        },
+        "electronegativity": 2.02,
+        "group": 15,
+        "groupBlock": "post-transition metal",
+        "meltingPoint": 544.55,
+        "period": 6,
+        "slug": "bismuth",
+        "standardState": "solid",
+        "symbol": "Bi",
+        "yearDiscovered": 1753
+    },
+    {
+        "name": "Polonium",
+        "atomicMass": 208.98243,
+        "atomicNumber": 84,
+        "atomicRadius": 197,
+        "boilingPoint": 1235,
+        "density": 9.32,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁴",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 4 }
+            ]
+        },
+        "electronegativity": 2,
+        "group": 16,
+        "groupBlock": "metalloid",
+        "meltingPoint": 527,
+        "period": 6,
+        "slug": "polonium",
+        "standardState": "solid",
+        "symbol": "Po",
+        "yearDiscovered": 1898
+    },
+    {
+        "name": "Astatine",
+        "atomicMass": 209.98715,
+        "atomicNumber": 85,
+        "atomicRadius": 202,
+        "boilingPoint": 610,
+        "density": 7,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁵",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 5 }
+            ]
+        },
+        "electronegativity": 2.2,
+        "group": 17,
+        "groupBlock": "halogen",
+        "meltingPoint": 575,
+        "period": 6,
+        "slug": "astatine",
+        "standardState": "solid",
+        "symbol": "At",
+        "yearDiscovered": 1940
+    },
+    {
+        "name": "Radon",
+        "atomicMass": 222.01758,
+        "atomicNumber": 86,
+        "atomicRadius": 220,
+        "boilingPoint": 211.45,
+        "density": 0.00973,
+        "electronConfiguration": {
+            "core": "Xe",
+            "display": "[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁶",
+            "orbitals": [
+                { "level": 6, "subshell": "s", "electrons": 2 },
+                { "level": 4, "subshell": "f", "electrons": 14 },
+                { "level": 5, "subshell": "d", "electrons": 10 },
+                { "level": 6, "subshell": "p", "electrons": 6 }
+            ]
+        },
+        "electronegativity": 0,
+        "group": 18,
+        "groupBlock":"noble gas",
+        "meltingPoint": 202,
+        "period": 6,
+        "slug": "radon",
+        "standardState": "solid",
+        "symbol": "Rn",
+        "yearDiscovered": 1900
+    },
+    {
+        "name": "Francium",
+        "atomicMass": 223.01973,
+        "atomicNumber": 87,
+        "atomicRadius": 348,
+        "boilingPoint": 950.1,
+        "density": 2.48,
+        "electronConfiguration": {
+            "core": "Rn",
+            "display": "[Rn]7s¹",
+            "orbitals": [
+                { "level": 7, "subshell": "s", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 0.7,
+        "group": 1,
+        "groupBlock":"alkali metal",
+        "meltingPoint": 300,
+        "period": 7,
+        "slug": "francium",
+        "standardState": "solid",
+        "symbol": "Fr",
+        "yearDiscovered": 1939
+    },
+    {
+        "name": "Radium",
+        "atomicMass": 226.02541,
+        "atomicNumber": 88,
+        "atomicRadius": 283,
+        "boilingPoint": 1413,
+        "density": 5,
+        "electronConfiguration": {
+            "core": "Rn",
+            "display": "[Rn]7s²",
+            "orbitals": [
+                { "level": 7, "subshell": "s", "electrons": 2 }
+            ]
+        },
+        "electronegativity": 0.9,
+        "group": 2,
+        "groupBlock": "alkaline earth metal",
+        "meltingPoint": 973,
+        "period": 7,
+        "slug": "radium",
+        "standardState": "solid",
+        "symbol": "Ra",
+        "yearDiscovered": 1898
+    },
+    {
+        "name": "Actinium",
+        "atomicMass": 227.02775,
+        "atomicNumber": 89,
+        "atomicRadius": 260,
+        "boilingPoint": 3471,
+        "density": 10.07,
+        "electronConfiguration": {
+            "core": "Rn",
+            "display": "[Rn]7s² 6d¹",
+            "orbitals": [
+                { "level": 7, "subshell": "s", "electrons": 2 },
+                { "level": 6, "subshell": "d", "electrons": 1 }
+            ]
+        },
+        "electronegativity": 1.1,
+        "group": 4,
+        "groupBlock": "actinide",
+        "meltingPoint": 1324,
+        "period": 7,
+        "slug": "actinium",
+        "standardState": "solid",
+        "symbol": "Ac",
+        "yearDiscovered": 1899
+    },
+    {
+        "name": 
     }
 ]
