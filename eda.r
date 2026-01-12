@@ -30,9 +30,7 @@ elements <- subset(elements, select = -c(X, electronConfiguration))
 dim(elements)
 summary(elements)
 
-# saw that year Discovered column was character type but forgot the Ancient
-elements$yearDiscovered <- as.numeric(elements$yearDiscovered)
-summary(elements)
+# saw that year Discovered column was character type but forgot the Ancien
 
 print(sum(is.na(elements)))
 
@@ -44,3 +42,4 @@ print(missingValueRows)
 elements$isAncient <- is.na(elements$yearDiscovered)
 elements$yearDiscovered[is.na(elements$yearDiscovered)] <- -3000
 
+glimpse(elements)
