@@ -30,8 +30,8 @@ elements <- subset(elements, select = -c(X, electronConfiguration))
 dim(elements)
 summary(elements)
 
-# saw that year Discovered column was character type but forgot the Ancien
-
+# saw that year Discovered column was character type but forgot the Ancient type
+elements$yearDiscovered <- as.numeric(elements$yearDiscovered)
 print(sum(is.na(elements)))
 
 # all rows that elements were discovered in ancient times
@@ -43,3 +43,7 @@ elements$isAncient <- is.na(elements$yearDiscovered)
 elements$yearDiscovered[is.na(elements$yearDiscovered)] <- -3000
 
 glimpse(elements)
+
+# have eda'd the csv and now about to tabgan the elements
+setwd("/Users/mikayla/elemental-1")
+write.csv(elements, "cleanElements.csv", row.names = FALSE)

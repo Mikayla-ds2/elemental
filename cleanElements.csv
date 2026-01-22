@@ -1,0 +1,99 @@
+"symbol","name","slug","atomicNumber","group","period","groupBlock","yearDiscovered","electronConfigurationCore","electronConfigurationDisplay","standardState","atomicMass","electronegativity","atomicRadius","meltingPoint","boilingPoint","density","isAncient"
+"H","Hydrogen","hydrogen",1,1,1,"nonmetal",1766,"","1s¹","gas",1.0078,2.2,120,13.81,20.28,8.988e-05,FALSE
+"He","Helium","helium",2,18,1,"noble gas",1868,"","1s²","gas",4.0026,0,140,0.95,4.22,0.0001785,FALSE
+"Li","Lithium","lithium",3,1,2,"alkali metal",1817,"He","[He]2s¹","solid",7,0.98,182,453.65,1615,0.534,FALSE
+"Be","Beryllium","beryllium",4,2,2,"alkaline earth metal",1798,"He","[He]2s²","solid",9.012183,1.57,153,1560,2744,1.85,FALSE
+"B","Boron","boron",5,13,2,"metalloid",1808,"He","[He]2s² 2p¹","solid",10.81,2.04,192,2348,4273,2.37,FALSE
+"C","Carbon","carbon",6,14,2,"nonmetal",-3000,"He","[He]2s² 2p²","solid",12.011,2.55,170,3823,4098,2.267,TRUE
+"N","Nitrogen","nitrogen",7,15,2,"nonmetal",1772,"He","[He]2s² 2p³","gas",14.007,3.04,155,63.15,77.36,0.0012506,FALSE
+"O","Oxygen","oxygen",8,16,2,"nonmetal",1774,"He","[He]2s² 2p⁴","gas",15.999,3.44,152,54.36,90.2,0.001429,FALSE
+"F","Fluorine","fluorine",9,17,2,"halogen",1670,"He","[He]2s² 2p⁵","gas",18.99840316,3.98,135,53.53,85.03,0.001696,FALSE
+"Ne","Neon","neon",10,18,2,"noble gas",1898,"He","[He]2s² 2p⁶","gas",20.18,0,154,24.56,27.07,0.0008999,FALSE
+"Na","Sodium","sodium",11,1,3,"alkali metal",1807,"Ne","[Ne]3s¹","solid",22.9897693,0.93,227,370.95,1156,0.97,FALSE
+"Mg","Magnesium","magnesium",12,2,3,"alkaline earth metal",1808,"Ne","[Ne]3s²","solid",24.305,1.31,173,923,1363,1.74,FALSE
+"Al","Aluminum","aluminum",13,13,3,"post-transition metal",-3000,"Ne","[Ne]3s² 3p¹","solid",26.981538,1.61,184,933.437,2792,2.7,TRUE
+"Si","Silicon","silicon",14,14,3,"metalloid",1854,"Ne","[Ne]3s² 3p²","solid",28.085,1.9,210,1687,3538,2.3296,FALSE
+"P","Phosphorus","phosphorus",15,15,3,"nonmetal",1669,"Ne","[Ne]3s² 3p³","solid",30.973762,2.19,180,317.3,553.65,1.82,FALSE
+"S","Sulfur","sulfur",16,16,3,"nonmetal",-3000,"Ne","[Ne]3s² 3p⁴","solid",32.07,2.58,180,388.36,717.75,2.067,TRUE
+"Cl","Chlorine","chlorine",17,17,3,"halogen",1774,"Ne","[Ne]3s² 3p⁵","gas",35.45,3.16,175,171.65,239.11,0.003214,FALSE
+"Ar","Argon","argon",18,18,3,"noble gas",1894,"Ne","[Ne]3s² 3p⁶","gas",39.9,0,188,83.8,87.3,0.0017837,FALSE
+"K","Potassium","potassium",19,1,4,"alkali metal",1807,"Ar","[Ar]4s¹","solid",39.0983,0.82,275,336.53,1032,0.89,FALSE
+"Ca","Calcium","calcium",20,2,4,"alkaline earth metal",-3000,"Ar","[Ar]4s²","solid",40.08,1,231,1115,1757,1.54,TRUE
+"Sc","Scandium","scandium",21,3,4,"transition metal",1879,"Ar","[Ar]4s² 3d¹","solid",44.95591,1.36,211,1814,3109,2.99,FALSE
+"Ti","Titanium","titanium",22,4,4,"transition metal",1791,"Ar","[Ar]4s² 3d²","solid",47.867,1.54,187,1941,3560,4.5,FALSE
+"V","Vanadium","vanadium",23,5,4,"transition metal",1801,"Ar","[Ar]4s² 3d³","solid",50.9415,1.63,179,2183,3680,6,FALSE
+"Cr","Chromium","chromium",24,6,4,"transition metal",1797,"Ar","[Ar]3d⁵ 4s¹","solid",51.996,1.66,189,2180,2944,7.15,FALSE
+"Mn","Manganese","manganese",25,7,4,"transition metal",1774,"Ar","[Ar]4s² 3d⁵","solid",54.93804,1.55,197,1519,2334,7.3,FALSE
+"Fe","Iron","iron",26,8,4,"transition metal",-3000,"Ar","[Ar]4s² 3d⁶","solid",55.84,1.83,194,1811,3134,7.874,TRUE
+"Co","Cobalt","cobalt",27,9,4,"transition metal",1735,"Ar","[Ar]4s² 3d⁷","solid",58.93319,1.88,192,1768,3200,8.86,FALSE
+"Ni","Nickel","nickel",28,10,4,"transition metal",1751,"Ar","[Ar]4s² 3d⁸","solid",58.693,1.91,163,1728,3186,8.912,FALSE
+"Cu","Copper","copper",29,11,4,"transition metal",-3000,"Ar","[Ar]4s¹ 3d¹⁰","solid",63.55,1.9,140,1357.77,2835,8.933,TRUE
+"Zn","Zinc","zinc",30,12,4,"transition metal",1746,"Ar","[Ar]4s² 3d¹⁰","solid",65.4,1.65,139,692.68,1180,7.134,FALSE
+"Ga","Gallium","gallium",31,13,4,"post-transition metal",1875,"Ar","[Ar]4s² 3d¹⁰ 4p¹","solid",69.723,1.81,187,302.91,2477,5.91,FALSE
+"Ge","Germanium","germanium",32,14,4,"metalloid",1886,"Ar","[Ar]4s² 3d¹⁰ 4p²","solid",72.63,2.01,211,1211.4,3106,5.323,FALSE
+"As","Arsenic","arsenic",33,15,4,"metalloid",-3000,"Ar","[Ar]4s² 3d¹⁰ 4p³","solid",74.92159,2.18,185,1090,887,5.776,TRUE
+"Se","Selenium","selenium",34,16,4,"nonmetal",1817,"Ar","[Ar]4s² 3d¹⁰ 4p⁴","solid",78.97,2.55,190,493.65,958,4.809,FALSE
+"Cl","Bromine","bromine",35,17,4,"halogen",1826,"Ar","[Ar]4s² 3d¹⁰ 4p⁵","solid",79.9,2.96,183,265.95,331.95,3.11,FALSE
+"Kr","Krypton","krypton",36,18,4,"noble gas",1898,"Ar","[Ar]4s² 3d¹⁰ 4p⁶","solid",83.8,3,202,115.79,119.93,0.003733,FALSE
+"Rb","Rubidium","rubidium",37,1,5,"alkali metal",1861,"Kr","[Kr]5s¹","solid",85.468,0.82,303,312.46,961,1.53,FALSE
+"Sr","Strontium","strontium",38,2,5,"alkaline earth metal",1790,"Kr","[Kr]5s²","solid",87.62,0.95,249,1050,1655,2.64,FALSE
+"Y","Yttrium","yttrium",39,3,5,"transition metal",1794,"Kr","[Kr]5s³","solid",88.90584,1.22,219,1795,3618,4.47,FALSE
+"Zr","Zirconium","zirconium",40,4,5,"transition metal",1789,"Kr","[Kr]5s² 4d²","solid",91.22,1.33,186,2128,4682,6.52,FALSE
+"Nb","Niobium","niobium",41,5,5,"transition metal",1801,"Kr","[Kr]5s¹ 4d⁴","solid",92.90637,1.6,207,2750,5017,8.57,FALSE
+"Mo","Molybdenum","molybdenum",42,6,5,"transition metal",1778,"Kr","[Kr]5s¹ 4d⁵","solid",95.95,2.16,209,2896,4912,10.2,FALSE
+"Tc","Technetium","technetium",43,7,5,"transition metal",1937,"Kr","[Kr]5s² 4d⁵","solid",96.90636,1.9,209,2430,4538,11,FALSE
+"Ru","Ruthenium","ruthenium",44,8,5,"transition metal",1827,"Kr","[Kr]5s¹ 4d⁷","solid",101.1,2.2,207,2607,4423,12.1,FALSE
+"Rh","Rhodium","rhodium",45,9,5,"transition metal",1803,"Kr","[Kr]5s¹ 4d⁸","solid",102.9055,2.28,195,2237,3968,12.4,FALSE
+"Pd","Palladium","palladium",46,10,5,"transition metal",1803,"Kr","[Kr] 4d¹⁰","solid",106.42,2.2,202,1828.05,3236,12,FALSE
+"Ag","Silver","silver",47,11,5,"transition metal",-3000,"Kr","[Kr]5s¹ 4d¹⁰","solid",107.868,1.93,172,1234.93,2435,10.501,TRUE
+"Cd","Cadmium","cadmium",48,12,5,"transition metal",1817,"Kr","[Kr]5s² 4d¹⁰","solid",112.41,1.69,158,594.22,1040,8.69,FALSE
+"In","Indium","indium",49,13,5,"post-transition metal",1863,"Kr","[Kr]5s¹ 4d¹⁰ 5p¹","solid",114.818,1.78,193,429.75,2345,7.31,FALSE
+"Sn","Tin","tin",50,14,5,"post-transition metal",-3000,"Kr","[Kr]5s² 4d¹⁰ 5p²","solid",118.71,1.96,217,505.08,2875,7.287,TRUE
+"Sb","Antimony","antimony",51,15,5,"metalloid",-3000,"Kr","[Kr]5s² 4d¹⁰ 5p³","solid",121.76,2.05,206,903.78,1860,6.685,TRUE
+"Te","Tellurium","tellurium",52,16,5,"metalloid",1782,"Kr","[Kr]5s² 4d¹⁰ 5p⁴","solid",127.6,2.1,206,722.66,1261,6.232,FALSE
+"I","Iodine","iodine",53,17,5,"halogen",1811,"Kr","[Kr]5s² 4d¹⁰ 5p⁵","solid",126.9045,2.66,198,386.85,457.55,4.93,FALSE
+"Xe","Xenon","xenon",54,18,5,"noble gas",1898,"Kr","[Kr]5s² 4d¹⁰ 5p⁶","gas",131.29,2.6,216,161.36,165.03,0.005887,FALSE
+"Cs","Cesium","cesium",55,1,6,"alkali metal",1860,"Xe","[Xe]6s¹","solid",132.905452,0.79,343,301.59,944,1.93,FALSE
+"Ba","Barium","barium",56,2,6,"alkaline earth metal",1808,"Xe","[Xe]6s²","solid",137.33,0.89,268,1000,2170,3.62,FALSE
+"La","Lanthanum","lanthanum",57,4,6,"lanthanide",1839,"Xe","[Xe]6s² 5d¹","solid",138.9055,1.1,240,1191,3737,6.15,FALSE
+"Ce","Cerium","cerium",58,5,6,"lanthanide",1803,"Xe","[Xe]6s² 4f¹ 5d¹","solid",140.116,1.12,235,1071,3697,6.77,FALSE
+"Pr","Praseodymium","praseodymium",59,6,6,"lanthanide",1885,"Xe","[Xe]6s² 4f³","solid",140.90766,1.13,239,1204,3793,6.77,FALSE
+"Nd","Neodymium","neodymium",60,7,6,"lanthanide",1885,"Xe","[Xe]6s² 4f⁴","solid",144.24,1.14,229,1294,3347,7.01,FALSE
+"Pm","Promethium","promethium",61,8,6,"lanthanide",1945,"Xe","[Xe]6s² 4f⁵","solid",144.91276,1.13,236,1315,3273,7.26,FALSE
+"Sm","Samarium","samarium",62,9,6,"lanthanide",1879,"Xe","[Xe]6s² 4f⁶","solid",150.4,1.17,229,1347,2067,7.52,FALSE
+"Eu","Europium","europium",63,10,6,"lanthanide",1901,"Xe","[Xe]6s² 4f⁷","solid",151.964,1.2,233,1095,1802,5.24,FALSE
+"Gd","Gadolinium","gadolinium",64,11,6,"lanthanide",1880,"Xe","[Xe]6s² 4f⁷ 5d¹","solid",157.25,1.2,237,1586,3546,7.9,FALSE
+"Tb","Terbium","terbium",65,12,6,"lanthanide",1843,"Xe","[Xe]6s² 4f⁹","solid",158.92535,1.2,221,1629,3503,8.23,FALSE
+"Dy","Dysprosium","dysprosium",66,13,6,"lanthanide",1886,"Xe","[Xe]6s² 4f¹⁰","solid",162.5,1.22,229,1685,2840,8.55,FALSE
+"Ho","Holmium","holmium",67,14,6,"lanthanide",1878,"Xe","[Xe]6s² 4f¹¹","solid",164.93033,1.23,216,1747,2973,8.8,FALSE
+"Er","Erbium","erbium",68,15,6,"lanthanide",1843,"Xe","[Xe]6s² 4f¹²","solid",167.22,1.24,235,1802,3141,9.07,FALSE
+"Tm","Thulium","thulium",69,16,6,"lanthanide",1879,"Xe","[Xe]6s² 4f¹³","solid",168.93422,1.25,227,1818,2223,9.32,FALSE
+"Yb","Ytterbium","ytterbium",70,17,6,"lanthanide",1878,"Xe","[Xe]6s² 4f¹⁴","solid",173.05,1.1,242,1092,1469,6.9,FALSE
+"Lu","Lutetium","lutetium",71,18,6,"lanthanide",1907,"Xe","[Xe]6s² 4f¹⁴ 5d¹","solid",174.9667,1.27,221,1936,3675,9.84,FALSE
+"Hf","Hafnium","hafnium",72,4,6,"transition metal",1923,"Xe","[Xe]6s² 4f¹⁴ 5d²","solid",178.49,1.3,212,2506,4876,13.3,FALSE
+"Ta","Tantalum","tantalum",73,5,6,"transition metal",1802,"Xe","[Xe]6s² 4f¹⁴ 5d³","solid",180.9479,1.5,217,3290,5731,16.4,FALSE
+"W","Tungsten","tungsten",74,6,6,"transition metal",1783,"Xe","[Xe]6s² 4f¹⁴ 5d⁴","solid",183.84,2.36,210,3695,5828,19.3,FALSE
+"Re","Rhenium","rhenium",75,7,6,"transition metal",1925,"Xe","[Xe]6s² 4f¹⁴ 5d⁵","solid",186.207,1.9,217,3459,5869,20.8,FALSE
+"Os","Osmium","osmium",76,8,6,"transition metal",1803,"Xe","[Xe]6s² 4f¹⁴ 5d⁶","solid",190.2,2.2,216,3306,5285,22.57,FALSE
+"Ir","Iridium","iridium",77,9,6,"transition metal",1803,"Xe","[Xe]6s² 4f¹⁴ 5d⁷","solid",192.22,2.2,202,2719,4701,22.42,FALSE
+"Pt","Platinum","platinum",78,10,6,"transition metal",1735,"Xe","[Xe]6s¹ 4f¹⁴ 5d⁹","solid",195.08,2.28,209,2041.55,4098,21.46,FALSE
+"Au","Gold","gold",79,11,6,"transition metal",-3000,"Xe","[Xe]6s¹ 4f¹⁴ 5d¹⁰","solid",196.96657,2.54,166,1337.33,3129,19.282,TRUE
+"Hg","Mercury","mercury",80,12,6,"transition metal",-3000,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰","liquid",200.59,2,209,234.32,629.88,13.5336,TRUE
+"Tl","Thallium","thallium",81,13,6,"post-transition metal",1861,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p¹","solid",204.383,1.62,196,577,1746,11.8,FALSE
+"Pb","Lead","lead",82,14,6,"post-transition metal",-3000,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p²","solid",207,2.33,202,600.61,2022,11.342,TRUE
+"Bi","Bismuth","bismuth",83,15,6,"post-transition metal",1753,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p³","solid",208.9804,2.02,207,544.55,1837,9.807,FALSE
+"Po","Polonium","polonium",84,16,6,"metalloid",1898,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁴","solid",208.98243,2,197,527,1235,9.32,FALSE
+"At","Astatine","astatine",85,17,6,"halogen",1940,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁵","solid",209.98715,2.2,202,575,610,7,FALSE
+"Rn","Radon","radon",86,18,6,"noble gas",1900,"Xe","[Xe]6s² 4f¹⁴ 5d¹⁰ 6p⁶","solid",222.01758,0,220,202,211.45,0.00973,FALSE
+"Fr","Francium","francium",87,1,7,"alkali metal",1939,"Rn","[Rn]7s¹","solid",223.01973,0.7,348,300,950.1,2.48,FALSE
+"Ra","Radium","radium",88,2,7,"alkaline earth metal",1898,"Rn","[Rn]7s²","solid",226.02541,0.9,283,973,1413,5,FALSE
+"Ac","Actinium","actinium",89,4,7,"actinide",1899,"Rn","[Rn]7s² 6d¹","solid",227.02775,1.1,260,1324,3471,10.07,FALSE
+"Th","Thorium","thorium",90,5,7,"actinide",1828,"Rn","[Rn]7s² 6d²","solid",232.038,1.3,237,2023,5061,11.72,FALSE
+"Pa","Protactinium","protactinium",91,6,7,"actinide",1913,"Rn","[Rn]7s² 5f² 6d¹","solid",231.03588,1.5,243,1845,4273,15.37,FALSE
+"U","Uranium","uranium",92,7,7,"actinide",1789,"Rn","[Rn]7s² 5f³ 6d¹","solid",238.0289,1.38,240,1408,4404,18.95,FALSE
+"Np","Neptunium","neptunium",93,8,7,"actinide",1940,"Rn","[Rn]7s² 5f⁴ 6d¹","solid",237.048172,1.36,221,917,4175,20.25,FALSE
+"Pu","Plutonium","plutonium",94,9,7,"actinide",1940,"Rn","[Rn]7s² 5f⁶","solid",244.0642,1.28,243,913,3501,19.84,FALSE
+"Am","Americium","americium",95,10,7,"actinide",1944,"Rn","[Rn]7s² 5f⁷","solid",243.06138,1.3,244,1449,2284,13.69,FALSE
+"Cm","Curium","curium",96,11,7,"actinide",1944,"Rn","[Rn]7s² 5f⁷ 6d¹","solid",247.07035,1.3,245,1618,3400,13.51,FALSE
+"Bk","Berkelium","berkelium",97,12,7,"actinide",1949,"Rn","[Rn]7s² 5f⁹","solid",247.07031,1.3,244,1323,2900,14,FALSE
+"Cf","Californium","californium",98,13,7,"actinide",1950,"Rn","[Rn]7s² 5f¹⁰","solid",251.07959,1.3,245,1173,1745,15.1,FALSE
